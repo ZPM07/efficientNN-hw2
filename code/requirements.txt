@@ -1,0 +1,8 @@
+torch==2.14.1+cu126 (index: https://download.pytorch.org/whl/cu126)
+transformers
+datasets
+scikit-learn
+scipy
+matplotlib
+pandas
+pytest
